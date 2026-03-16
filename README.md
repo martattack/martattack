@@ -19,6 +19,10 @@ I currently work on the **Ticket Access team at Eventbrite**, building and maint
 - 🔄 Refining **release and on-call processes**
 - 🎯 Shaping **interview loops** for frontend and mobile roles
 
+## Current project
+
+I'm currently developing [TribuMamá](https://github.com/martattack/tribu-mama) 🤰
+
 ## What I'm looking for
 
 I'm particularly interested in roles where engineers contribute to product decisions, collaborate closely with cross-functional teams, and take ownership of the full lifecycle of a feature.
